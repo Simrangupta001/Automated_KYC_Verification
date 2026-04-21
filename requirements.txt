@@ -1,0 +1,31 @@
+# CORE BACKEND
+# ─────────────────────────────
+fastapi
+uvicorn
+python-multipart
+
+# IMAGE PROCESSING
+# ─────────────────────────────
+opencv-python
+numpy
+Pillow
+
+
+# OCR (TEXT EXTRACTION)
+# ─────────────────────────────
+easyocr
+
+# ML MODEL (YOLOv8)
+# ─────────────────────────────
+ultralytics
+torch
+torchvision
+
+# TEXT CLEANING / MATCHING
+# ─────────────────────────────
+rapidfuzz
+
+# UTILITIES
+# ─────────────────────────────
+python-dotenv
+tqdm
