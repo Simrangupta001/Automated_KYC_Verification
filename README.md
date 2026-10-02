@@ -2,7 +2,6 @@
 
 An AI-powered **eKYC (Electronic Know Your Customer)** system designed to automate the verification of **Nepali Citizenship Cards** using Computer Vision and OCR.
 
-⚠️ **Project Status: Under Development (Module Integration in Progress)**
 
 ---
 
